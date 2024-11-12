@@ -3,7 +3,7 @@
 
 ## About me <a name="about"></a>
 ---
-I am Lisa Berger, a PhD student at the Department of [Neuropsychology and Neuroimaging](https://neuropsychologie.uni-graz.at/de/). [/br]
+I am Lisa Berger, a PhD student at the Department of [Neuropsychology and Neuroimaging](https://neuropsychologie.uni-graz.at/de/).
 
 
 ## News <a name="news"></a>
