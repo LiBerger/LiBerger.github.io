@@ -1,3 +1,4 @@
+[About me]() | [News]() | [Social Media]()
 # Lisa Berger
 
 ## About me
