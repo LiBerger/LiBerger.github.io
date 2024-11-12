@@ -1,4 +1,4 @@
-[About me](#about) | [News](#news) | [Social Media](#socials)
+[About me](#about) | [News](#news) | [Social Media](#socials) | [Blog](#blog)
 # Lisa Berger
 
 ## About me <a name="about"></a>
@@ -11,6 +11,13 @@ I am Lisa Berger, a PhD student at the Department of [Neuropsychology and Neuroi
 ## News <a name="news"></a>
 ---
 Some news
+
+## Blog
+---
+
+### Blogpost about xy <a name="blot"></a>
+*Written on the x<* <br>
+
 
 ## Social Media <a name="socials"></a>
 ---
